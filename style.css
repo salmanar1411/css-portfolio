@@ -1,0 +1,32 @@
+body {
+    background-color: #85AAC4;
+    color: black;
+}
+
+div {
+    /* align-items: center; */
+    width: 30%;
+    text-align: center;
+    /* margin-left: 35%; */
+    background-color: white;
+    padding: 10px;
+    margin-top: 10%;
+    box-shadow: 15px 15px 50px 0 #575656;
+
+}
+
+img {
+    width: 100%;
+    
+}
+
+h1, p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0 10px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
